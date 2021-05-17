@@ -6,4 +6,4 @@ Exercícios para treinar estrutura de dados em linguagem C
 <p>Foi criada uma lista estatica com vetor definido de 5 espaços</p>
 <img src="src/assets/Screenshot_2.png">
 
-<h2><Exercício para lista dinâmica</h2>
+<h2>Exercício para lista dinâmica</h2>
